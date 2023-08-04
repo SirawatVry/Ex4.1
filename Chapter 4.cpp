@@ -3,8 +3,8 @@
 using namespace std;
 int main()
 {
-int Age,bmi;
-float H,W;
+int Age;
+float H,W,bmi;
 string Gen;
 cout << "Enter Age  :";
 cin  >> Age;
